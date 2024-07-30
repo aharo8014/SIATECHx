@@ -214,5 +214,6 @@ if uploaded_file is not None:
 # Pie de página
 st.markdown("""
 ---
-Elaborado por **Alexander Fernando Haro**, Carrera Administración de Empresas e Inteligencia de Negocios del Instituto Superior Tecnológico España.
+Análisis de la funcionalidad metodológica en otra área **Educación* como fuente del proyecto: “Riesgo Crediticio: Aplicaciones Vanguardistas de Modelos Algorítmicos y
+Estadísticos en Cooperativas de pequeña escala” Liderado por **Alexander Haro**, Administración de Empresas e Inteligencia de Negocios; **Frankz Carrera**, DAW; **Freddy Lalaleo**, Administración.
 """)
